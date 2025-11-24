@@ -1,4 +1,4 @@
-## Hi there 👋👋 
+ 
 Olá! Eu sou Gilmar Lagares
 
 🎓 Estudante de Tecnologia da Informação | Desenvolvedor em formação
