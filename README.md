@@ -1,5 +1,6 @@
 ## Hi there 👋👋 
 Olá! Eu sou Gilmar Lagares
+
 🎓 Estudante de Tecnologia da Informação | Desenvolvedor em formação
 
 Sou estudante de Tecnologia da Informação e estou construindo minha trajetória na área com foco em transformar conhecimento em prática. Ao longo da graduação, desenvolvi uma base sólida em lógica de programação, algoritmos, banco de dados, redes e desenvolvimento web, explorando linguagens como C, Python e JavaScript para criar soluções reais e evoluir tecnicamente a cada desafio.
